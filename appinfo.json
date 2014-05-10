@@ -1,0 +1,106 @@
+{
+    "appKeys": {
+        "location": 6,
+        "temp": 3,
+        "code": 5,
+        "main": 1,
+        "rain": 4,
+        "icon": 2
+    },
+    "resources": {
+        "media": [
+            {
+                "name": "IMAGE_TICK",
+                "file": "images/tick.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_UMBRELLA",
+                "file": "images/umbrella.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_00D",
+                "file": "images/00d.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_50D",
+                "file": "images/50d.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_13D",
+                "file": "images/13d.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_11D",
+                "file": "images/11d.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_10D",
+                "file": "images/10d.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_09D",
+                "file": "images/09d.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_04D",
+                "file": "images/04d.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_03D",
+                "file": "images/03d.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_02D",
+                "file": "images/02d.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_01D",
+                "file": "images/01d.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_SUN",
+                "file": "images/1397826002.png.png",
+                "type": "png"
+            },
+            {
+                "trackingAdjust": 1,
+                "name": "FONT_TEXT_14",
+                "file": "fonts/GIMENELL.TTF",
+                "characterRegex": "[0-9:.\\-A-Za-z& ]",
+                "type": "font"
+            },
+            {
+                "trackingAdjust": -2,
+                "name": "FONT_DIGI_66",
+                "file": "fonts/DS-DIGIB.TTF",
+                "characterRegex": "[0-9:]",
+                "type": "font"
+            }
+        ]
+    },
+    "watchapp": {
+        "watchface": false
+    },
+    "shortName": "Stormycloud",
+    "versionLabel": "1.0",
+    "versionCode": 1,
+    "companyName": "asanoki@gmail.com",
+    "uuid": "30e64c8d-bd0b-4ccd-a742-5cb90ce2c6ce",
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "longName": "Stormycloud"
+}
